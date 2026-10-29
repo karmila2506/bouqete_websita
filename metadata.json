@@ -1,0 +1,6 @@
+{
+  "name": "Hasfarm Florist & Atelier",
+  "description": "Website penjualan buket bunga mewah terintegrasi manajemen stok real-time, kalkulator HPP & margin harga, notifikasi WhatsApp admin, payment gateway otomatis, dashboard analitik & laba rugi, dan autentikasi 2FA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
